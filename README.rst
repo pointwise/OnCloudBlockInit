@@ -24,7 +24,7 @@ following steps can be performed:
 
 -  Close Pointwise after the entire process has finished
 
-.. image:: https://raw.github.com/pointwise/OnCloudeBlockInit/master/tk.png
+.. image:: https://raw.github.com/pointwise/OnCloudBlockInit/master/tk.png
 
 Usage
 -----
