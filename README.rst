@@ -71,7 +71,8 @@ The configured sequence will commence when *OK* is pressed. Processing can be
 interrupted by pressing the *Interrupt Script* button in the main Pointwise
 window.
 
-## Disclaimer
+Disclaimer
+~~~~~~~~~~
 
 This file is licensed under the Cadence Public License Version 1.0 (the
 "License"), a copy of which is found in the LICENSE file, and is distributed
